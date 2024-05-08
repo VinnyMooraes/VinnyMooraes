@@ -4,7 +4,7 @@
  No mundo Dev desde 2017, idade: 26 anos, gosto de correr, pedalar, momentos em familia, aprender sempre algo novo. Atualmente aprodundando os estudos/leituras em tecnologias especificas, buscando também a fluência no segundo idioma🧐
   
  # Títulos acadêmicos 🎓
- Software Enginner (em formação) cursando Profissão Desenvolvedor Full Stack JAVA - EBAC;
+ Software Enginner - cursando Profissão Desenvolvedor Full Stack JAVA - EBAC;
  
  Pós: Engenharia de Sistemas - ESAB
  Tecnologias que gosto de trabalhar:
